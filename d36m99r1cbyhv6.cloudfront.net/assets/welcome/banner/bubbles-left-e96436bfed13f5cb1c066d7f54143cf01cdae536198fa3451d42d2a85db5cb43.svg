@@ -1,0 +1,44 @@
+<svg width="127" height="168" viewBox="0 0 127 168" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4" transform="translate(37 104)">
+<circle cx="32" cy="32" r="32" fill="#FFE03C"/>
+<circle cx="32" cy="32" r="32" fill="url(#paint0_linear)"/>
+</g>
+<g opacity="0.4" transform="translate(-63 41)">
+<circle cx="63.5" cy="63.5" r="63.5" fill="#FFE03C"/>
+<circle cx="63.5" cy="63.5" r="63.5" fill="url(#paint1_linear)"/>
+</g>
+<g opacity="0.4" transform="translate(-100 -4)">
+<circle cx="63.5" cy="63.5" r="63.5" fill="#FFE03C"/>
+<circle cx="63.5" cy="63.5" r="63.5" fill="url(#paint2_linear)"/>
+</g>
+<g opacity="0.4" transform="translate(84 100)">
+<circle cx="9.5" cy="9.5" r="9.5" fill="#FFE03C"/>
+<circle cx="9.5" cy="9.5" r="9.5" fill="url(#paint3_linear)"/>
+</g>
+<g opacity="0.4" transform="translate(122.497 114) rotate(74.0159)">
+<circle cx="6.5" cy="6.5" r="6.5" fill="#FFE03C"/>
+<circle cx="6.5" cy="6.5" r="6.5" fill="url(#paint4_linear)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-95.36 289.561 -289.561 -14182 229.548 6952.48)">
+<stop stop-color="#E9BA55"/>
+<stop offset="1" stop-color="#E05A48" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-189.23 574.597 -574.597 -28142.5 455.51 13796.3)">
+<stop stop-color="#E9BA55"/>
+<stop offset="1" stop-color="#E05A48" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-189.23 574.597 -574.597 -28142.5 455.51 13796.3)">
+<stop stop-color="#E9BA55"/>
+<stop offset="1" stop-color="#E05A48" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-28.31 85.9633 -85.9633 -4210.29 68.1472 2064.02)">
+<stop stop-color="#E9BA55"/>
+<stop offset="1" stop-color="#E05A48" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.37 58.817 -58.817 -2880.73 46.627 1412.22)">
+<stop stop-color="#E9BA55"/>
+<stop offset="1" stop-color="#E05A48" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
