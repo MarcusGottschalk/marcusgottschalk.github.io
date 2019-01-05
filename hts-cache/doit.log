@@ -1,0 +1,8 @@
+-q -%i -w https://www.babels.jp https://sider.review https://www.ficc.jp https://www.clarity.tokyo https://www.confirmkit.com https://slideship.com http://edison.ai https://freegram.io https://scalar-labs.com https://www.motivo.jp -O "/home/boss/websites/japan" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -r3 -A25000000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u
+File generated automatically on Fri, 04 Jan 2019 21:58:28, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
